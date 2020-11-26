@@ -1,0 +1,24 @@
+структура библиотеки KiCAD
+корневой каталок /KiCAD_libs
+/KiCAD_libs/3D - 3D модели
+/KiCAD_libs/xxxx.pretty, где xxxx аналогично именам библиотек компонентов. 
+
+библиотеки компонентов
+1np_general - модули общее
+1np_diodes - диоды
+1np_crystals - кварцы и генераторы 
+1np_capacitors - конденсаторы
+1np_inductors - дроссели и трансформаторы
+1np_leds - LED, TFT
+1np_relays - реле
+1np_resistors - резисторы
+1np_protection - fuses, PTC
+1np_sockets - разъёмы, клеммники
+1np_transistors - трансзисторы
+1np_ICs - микросхемы
+1np_swith_buttons - кнопки переключатели джамперы
+1np_symbols - символы питания, заземления 
+
+
+2np - шаблон локальных компонентов проекта 
+
